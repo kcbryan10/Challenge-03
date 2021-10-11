@@ -2,7 +2,7 @@
 var special = ['!', '@', '#', '$', '%', '^', '&', '*', '(', ')', '?', '/',]
 var lower = "qwertyuiopasdfghjklzxcvbnm".split('');
 var upper = "QWERTYUIOPASDFGHJKLZXCVBNM".split('');
-var number = ['!', '@', '#', '$', '%', '^', '&', '*', '(', ')', '?', '/',]
+var number = ['1','2','3','4','5','6','7','8','9']
 var PasswordCriteria= [];
 
 function GetCriteria() {
